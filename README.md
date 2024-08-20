@@ -7,14 +7,14 @@ Currently studying in uconn in Data Science.
 ## Two hash is medium heading
 ### Three hash is smaller heading 
 
-#How to bold and italics 
+# How to bold and italics 
 **Two stars for bold**
 *One star for Italics*
 
-#How to make a link 
+# How to make a link 
 [Click here to go for this link](https://www.youtube.com/@GitHub)
 
-How to Code;
+# How to Code;
 ```python 
 for i in range(0,8):
     print(i,end = "|")

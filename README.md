@@ -15,8 +15,8 @@ Currently studying in uconn in Data Science.
 [Click here to go for this link](https://www.youtube.com/@GitHub)
 
 How to Code;
-'''python 
+```python 
 for i in range(0,8):
     print(i,end = "|")
-'''
+```
 

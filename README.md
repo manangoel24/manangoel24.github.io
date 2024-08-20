@@ -1,11 +1,11 @@
 # manangoel24.github.io
 
-#Manan's Home page
+# Manan's Home page
 Currently studying in uconn in Data Science.
 
-#Three hag is big heading
-##Two hash is medium heading
-###Three hash is smaller heading 
+# Three hag is big heading
+## Two hash is medium heading
+### Three hash is smaller heading 
 
 #How to bold and italics 
 **Two stars for bold**
